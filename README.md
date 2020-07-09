@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on MaiCoin Group
 - 👯  I’m looking to collaborate on [SRE](https://github.com/MaiAmis/Careers/blob/master/MaiCoin/site-reliability-engineer.md)
 - 🌱  I’m currently learning Python
 - 🙎‍ I'm Taipei HashiCorp User Group Organizer
